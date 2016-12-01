@@ -1,3 +1,3 @@
 # hello-word
-projet tuto pour apprendre git
-je rajoute des lignes
+projet tuto pour apprendre git.
+Je rajoute des lignes
